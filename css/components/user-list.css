@@ -1,0 +1,15 @@
+.user-list {
+	border-bottom: none;
+	padding: 10px 0px;
+}
+.user-list__column img {
+	height: 50px;
+	width: 50px;
+	border-radius: 20px;
+}
+.user-list__column-id {
+	font-size: 18px;
+}
+.user-list__column-dsc {
+	font-size: 14px;
+}

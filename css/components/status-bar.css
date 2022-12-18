@@ -1,12 +1,12 @@
 .status-bar {
 	position: fixed;
-	top: 0;
 	width: 100%;
 	box-sizing: border-box;
 	display: flex;
 	justify-content: space-between;
 	padding: 5px 10px;
 	background-color: rgba(0, 0, 0, 0.03);
+	z-index: 3;
 }
 .status-bar__column:nth-child(2) {
 	display: flex;

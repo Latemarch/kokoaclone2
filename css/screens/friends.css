@@ -1,0 +1,8 @@
+.channel-list__title {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 5px 20px;
+	font-size: 14px;
+	opacity: 0.5;
+}
